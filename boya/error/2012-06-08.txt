@@ -1,0 +1,90 @@
+错误SQL语句：
+select  id,pid,url,menu_name_en as menu_name  from  menu m where m.`show`='1'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:16:35
+
+错误SQL语句：
+select  id,link_url,college_title_en as menu_name  from  college_type t where t.pid='0'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:16:35
+
+错误SQL语句：
+select type_code from comm_code where type_name='College_Menu_ID'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:16:35
+
+错误SQL语句：
+select  id,pid,url,menu_name_en as menu_name  from  menu m where m.`show`='1'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:18:08
+
+错误SQL语句：
+select  id,link_url,college_title_en as menu_name  from  college_type t where t.pid='0'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:18:08
+
+错误SQL语句：
+select type_code from comm_code where type_name='College_Menu_ID'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:18:08
+
+错误SQL语句：
+select  id,pid,url,menu_name_en as menu_name  from  menu m where m.`show`='1'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:18:41
+
+错误SQL语句：
+select  id,link_url,college_title_en as menu_name  from  college_type t where t.pid='0'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:18:41
+
+错误SQL语句：
+select type_code from comm_code where type_name='College_Menu_ID'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:18:41
+
+错误SQL语句：
+select  id,pid,url,menu_name_en as menu_name  from  menu m where m.`show`='1'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:20:31
+
+错误SQL语句：
+select  id,link_url,college_title_en as menu_name  from  college_type t where t.pid='0'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:20:31
+
+错误SQL语句：
+select type_code from comm_code where type_name='College_Menu_ID'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:20:31
+
+错误SQL语句：
+select  id,pid,url,menu_name_en as menu_name  from  menu m where m.`show`='1'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:26:25
+
+错误SQL语句：
+select  id,link_url,college_title_en as menu_name  from  college_type t where t.pid='0'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:26:25
+
+错误SQL语句：
+select type_code from comm_code where type_name='College_Menu_ID'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:26:25
+
+错误SQL语句：
+select  id,pid,url,menu_name_en as menu_name  from  menu m where m.`show`='1'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:32:28
+
+错误SQL语句：
+select  id,link_url,college_title_en as menu_name  from  college_type t where t.pid='0'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:32:28
+
+错误SQL语句：
+select type_code from comm_code where type_name='College_Menu_ID'
+客户IP:127.0.0.1
+时间 :2012-06-08 14:32:28
+
