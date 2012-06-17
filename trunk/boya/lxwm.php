@@ -12,5 +12,5 @@ $smarty->assign("imagelist",$imagelist);
 
 
 
-$smarty->display("index.html");
+$smarty->display("lxwm.html");
 ?>

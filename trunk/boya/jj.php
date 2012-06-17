@@ -38,6 +38,6 @@ $smarty->assign("courseRow",$courseRow);
 
 
 
-$smarty->display("pxzx.html");
+$smarty->display("jj.html");
 ?>
 
